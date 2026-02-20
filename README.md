@@ -1,5 +1,7 @@
 # ragpipe
 
+[![CI](https://github.com/devaloi/ragpipe/actions/workflows/ci.yml/badge.svg)](https://github.com/devaloi/ragpipe/actions/workflows/ci.yml)
+
 A RAG (Retrieval-Augmented Generation) pipeline with embeddings, ChromaDB, and a retrieval chain — built from clean abstractions with swappable providers.
 
 ## Architecture

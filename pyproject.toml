@@ -9,7 +9,7 @@ description = "A RAG (Retrieval-Augmented Generation) pipeline with embeddings, 
 readme = "README.md"
 license = "MIT"
 requires-python = ">=3.11"
-authors = [{ name = "devaloi" }]
+authors = [{ name = "Jason Aloi" }]
 dependencies = [
     "chromadb>=1.0.0",
     "click>=8.1",
