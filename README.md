@@ -1,6 +1,8 @@
 # ragpipe
 
 [![CI](https://github.com/devaloi/ragpipe/actions/workflows/ci.yml/badge.svg)](https://github.com/devaloi/ragpipe/actions/workflows/ci.yml)
+[![Python](https://img.shields.io/badge/python-3.11%2B-blue)](pyproject.toml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 A RAG (Retrieval-Augmented Generation) pipeline with embeddings, ChromaDB, and a retrieval chain — built from clean abstractions with swappable providers.
 
@@ -190,3 +192,7 @@ ruff check src/ tests/
 ## License
 
 MIT
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md). PRs welcome — run `make all` before submitting.
